@@ -1,2 +1,3 @@
 # Hotstar-Clone
-Created with CodeSandbox
+Landing Page for a HOtstar clone built using HTML, CSS and Javascript.
+Created with CodeSandbox.
